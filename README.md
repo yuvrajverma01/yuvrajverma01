@@ -14,7 +14,17 @@
 </a>
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
-
+<ul>
+  <li>- 🔭 I’m currently learning Cyber Security</li>
+  <li>- 🎓 Currently pursuing Computer Science Engineering (Sophomore) </li>
+  <li>- 👨‍💻 Python developer and front-end web developer.</li>
+  <li>      HackerRank                  Codechef 2⭐</li>
+  <li>      Python ⭐⭐⭐⭐⭐</li>
+  <li>      Problem Solving ⭐⭐⭐</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 - 🔭 I’m currently learning Cyber Security
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and front-end web developer.
