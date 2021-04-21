@@ -18,13 +18,17 @@
 - 🔭 I’m currently learning Cyber Security
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and front-end web developer.
-- 🌱 Enthusiast in cyber Security and Machine Learning
+- 🔭 Exploring Competetive Programming
+      HackerRank                  Codechef 2⭐
+      Python ⭐⭐⭐⭐⭐
+      Problem Solving ⭐⭐⭐
+- 🌱 Enthusiast in Cyber Security and Machine Learning
 - 🏃‍♂️ About to document my journey on [YouTube](https://www.youtube.com/watch?v=3jEZnZD6phQ&t=0s)
 - ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 Python | C | Java | JavaScript  
+- 💻 Python | C | C++ | Java | JavaScript | PyPy3
 - 🔧 PyCharm | Visual Studio code | Atom | Git | Notion
 - 💽 Adobe Xd | Illustrator | Photoshop | Premier Pro | Lightroom
 
