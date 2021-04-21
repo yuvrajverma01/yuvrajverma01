@@ -14,6 +14,7 @@
 </a>
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
+
 - 🔭 I’m currently learning Cyber Security
 - 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
 - 👨‍💻 Python developer and front-end web developer.
@@ -33,3 +34,4 @@
 <a href="https://github.com/yuvrajverma01">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajverma01&show_icons=true&theme=light&line_height=27" alt="Yuvraj's github stats"/>
 </a>
+
