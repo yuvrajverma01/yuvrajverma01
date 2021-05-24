@@ -1,16 +1,16 @@
 <h2> Hey there! I'm Yuvraj. ✌️</h2>
 
 <a href="https://www.linkedin.com/in/yuvrajverma01/">
-  <img align="left" alt="Yuvraj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Yuvraj's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" />
 </a>
 <a href="https://www.instagram.com/yuvrajverma01/">
-  <img align="left" alt="Yuvraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Yuvraj's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-256.png" />
 </a>
 <a href="https://www.youtube.com/watch?v=3jEZnZD6phQ&t=0s">
-  <img align="left" alt="Yuvraj's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Yuvraj's YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png" />
 </a>
 <a href="https://twitter.com/01_barfi">
-  <img align="left" alt="Yuvraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Yuvraj's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-256.png" />
 </a>
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
