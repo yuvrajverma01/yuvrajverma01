@@ -37,8 +37,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 ![Profile views](https://gpvc.arturio.dev/yuvrajverma01) 
 
