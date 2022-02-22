@@ -1,27 +1,27 @@
 <h2> Hey there! I'm Yuvraj. ✌️</h2>
 
+<a href="https://www.yuvrajverma.tech">
+  <img align="left" alt="Yuvraj's Website" width="26px" src="https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_47-512.png" />
+</a>
 <a href="https://www.linkedin.com/in/yuvrajverma01/">
-  <img align="left" alt="Yuvraj's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" />
+  <img align="left" alt="Yuvraj's LinkdeIN" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" />
 </a>
 <a href="https://www.instagram.com/yuvrajverma01/">
-  <img align="left" alt="Yuvraj's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-256.png" />
+  <img align="left" alt="Yuvraj's Instagram" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />
 </a>
 <a href="https://www.youtube.com/watch?v=3jEZnZD6phQ&t=0s">
-  <img align="left" alt="Yuvraj's YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_2-youtube-256.png" />
-</a>
-<a href="https://twitter.com/01_barfi">
-  <img align="left" alt="Yuvraj's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-256.png" />
+  <img align="left" alt="Yuvraj's YouTube" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png" />
 </a>
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently learning Cyber Security
-- 🎓 Currently pursuing Computer Science Engineering (Sophomore) 
-- 👨‍💻 Python developer and front-end web developer.
-- 🔭 Exploring Competetive Programming
-- 🌱 Enthusiast in Cyber Security and Machine Learning
-- 🏃‍♂️ About to document my journey on [YouTube](https://www.youtube.com/watch?v=3jEZnZD6phQ&t=0s)
-- ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things 
+- 🔭 I’m currently looking for internship oppurtunities.
+- 🎓 Currently pursuing Computer Science Engineering (Pre-Final Year) 
+- 👨‍💻 Fluent in Python and C++ and have a knowledge of web development too.
+- 🔭 Exploring Competetive Programming.
+- 🌱 Enthusiast in Cyber Security and Machine Learning.
+- 🏃‍♂️ About to document my journey on [this website.](https://www.youtube.com/watch?v=3jEZnZD6phQ&t=0s)
+- ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things.
 
 <h3>🛠 Tech Stack</h3>
 
