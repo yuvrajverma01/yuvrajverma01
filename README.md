@@ -16,7 +16,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently looking for internship oppurtunities.
-- 🎓 Currently pursuing Computer Science Engineering (Pre-Final Year) 
+- 🎓 Currently pursuing Computer Science Engineering (Final Year) 
 - 👨‍💻 Fluent in Python and C++ and have a knowledge of web development too.
 - 🔭 Exploring Competetive Programming.
 - 🌱 Enthusiast in Cyber Security and Machine Learning.
